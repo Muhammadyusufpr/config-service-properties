@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../auth-service/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/../auth-service/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../card-service/card-service.iml" filepath="$PROJECT_DIR$/../card-service/card-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../config-service/config-service/config-service.iml" filepath="$PROJECT_DIR$/../config-service/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/../discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gatway-service/gatway-service/gatway-service.iml" filepath="$PROJECT_DIR$/../gatway-service/gatway-service/gatway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/micro_service.iml" filepath="$PROJECT_DIR$/.idea/micro_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../transaction-service/transaction-service.iml" filepath="$PROJECT_DIR$/../transaction-service/transaction-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../user-service/user-service.iml" filepath="$PROJECT_DIR$/../user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
